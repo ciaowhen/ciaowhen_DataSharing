@@ -1,0 +1,4 @@
+/home/ciaowhen/下载/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/ciaowhen/linux网络编程/web练习/web/libevent_http
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ciaowhen/linux网络编程/web练习/web/libevent_http/cmake-build-debug
