@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblibevent_httplib.a CMakeFiles/libevent_httplib.dir/lib_http.cpp.o
-/usr/bin/ranlib liblibevent_httplib.a

@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/libevent_http.dir/main.cpp.o CMakeFiles/libevent_http.dir/http_lib.cpp.o -o libevent_http  -levent 
