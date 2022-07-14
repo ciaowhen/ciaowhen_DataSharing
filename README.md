@@ -333,3 +333,4 @@ void evconnlistener_free（struct evconnlistener *lev）;
 # Libevent实现HTTP服务
 
 该程序使用了Libevent网络库来实现HTTP服务，编译运行main程序后，只要输入相关参数（端口号，工作目录），就可以显示该工作目录下的所有文件信息，包括目录项；能够有效访问该目录下的所有文件，包括文本文件，图片，视频和音频等等。访问错误时会显示错误页面。
+编译时要注意需要在命令后面加上 “-levent”, 否则会编译出错。
